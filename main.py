@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from datetime import datetime
 import logging
 from markup import markaMenu
-TOKEN = '5159745448:AAHHgYVkwDq-BPa7F7F-zg-gXf6OCBosK3I'
+TOKEN = 'TOKEN'
 logging.basicConfig(level=logging.INFO)
 # Initialize bot and dispatcher
 bot = Bot(token=TOKEN)
